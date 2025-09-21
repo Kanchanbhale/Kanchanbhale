@@ -13,7 +13,7 @@
 
 - 💬 Ask me about **computer vision, llm, optimization, genetic algorithms**
 
-- 📫 How to reach me **kanchanbhale18@gmail.com**
+- 📫 How to reach me **kvb2117@columbia.edu**
 
 - ⚡ Fun fact **For me coding is storytelling**
 
