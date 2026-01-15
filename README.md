@@ -1,17 +1,17 @@
 <h1 align="center">Hi 👋, I'm Kanchan Bhale</h1>
-<h3 align="center">A passionate Data Scientist working at Boeing from India</h3>
+<h3 align="center">I am Studying MS in Data at Columbia, Ex Data Scientist @Boeing</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kanchanbhale&label=Profile%20views&color=0e75b6&style=flat" alt="kanchanbhale" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kanchanbhale" alt="kanchanbhale" /></a> </p>
 
-- 🔭 I’m currently working on **Computer Vision - Object detection**
+- 🔭 I’m currently working on *Agentic AI*, *LLM Based Generative AI* and *AI applications in Finance**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Kanchanbhale](https://github.com/Kanchanbhale)
 
 - 📝 I regularly write articles on [https://www.linkedin.com/in/kanchan-vinayak-bhale/](https://www.linkedin.com/in/kanchan-vinayak-bhale/)
 
-- 💬 Ask me about **computer vision, llm, optimization, genetic algorithms**
+- 💬 Ask me about **Agentic AI, LLM, Optimization, RAG**
 
 - 📫 How to reach me **kvb2117@columbia.edu**
 
