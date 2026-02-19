@@ -7,9 +7,9 @@
 
 - 🔭 I’m currently working on *Agentic AI*, *LLM Based Generative AI* and *RAG applications*
 
-- 👨‍💻 All of my projects are available at [https://github.com/Kanchanbhale](https://github.com/Kanchanbhale)
+- 👨‍💻 All of my projects are available on [My Portfolio](https://kanchanbhale.github.io/web/))
 
-- 📝 I regularly write articles on [https://www.linkedin.com/in/kanchan-vinayak-bhale/](https://substack.com/@kanchanbhale1/posts)
+- 📝 I regularly write articles on [My blog](https://substack.com/@kanchanbhale1/posts)
 
 - 💬 Ask me about **Agentic AI, LLM, Optimization, RAG**
 
