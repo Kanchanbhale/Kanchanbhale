@@ -9,7 +9,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/Kanchanbhale](https://github.com/Kanchanbhale)
 
-- 📝 I regularly write articles on [https://www.linkedin.com/in/kanchan-vinayak-bhale/](https://www.linkedin.com/in/kanchan-vinayak-bhale/)
+- 📝 I regularly write articles on [https://www.linkedin.com/in/kanchan-vinayak-bhale/](https://substack.com/@kanchanbhale1/posts)
 
 - 💬 Ask me about **Agentic AI, LLM, Optimization, RAG**
 
