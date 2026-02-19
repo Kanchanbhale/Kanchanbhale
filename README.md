@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on *Agentic AI*, *LLM Based Generative AI* and *RAG applications*
 
-- 👨‍💻 All of my projects are available on [My Portfolio](https://kanchanbhale.github.io/web/))
+- 👨‍💻 All of my projects are available on [My Portfolio](https://kanchanbhale.github.io/web/)
 
 - 📝 I regularly write articles on [My blog](https://substack.com/@kanchanbhale1/posts)
 
